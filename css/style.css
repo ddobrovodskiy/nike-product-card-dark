@@ -19,13 +19,13 @@
         z-index: 8;
       
 }
-.block-logo{
+.main-block__logo{
     position: absolute;
     left: 22px;
     top: 22px;
     
 }
-.block-main-img{
+.main-block__img{
  
         position: absolute;
         left: 35px;
@@ -36,7 +36,7 @@
     
       
 }
-.block-content{
+.main-block__content{
     position: absolute;
     width: 185px;
     height: 245px;
