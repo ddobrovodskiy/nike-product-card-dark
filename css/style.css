@@ -1,0 +1,113 @@
+
+.main {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 800px;
+    height: 600px;
+    z-index: 6;
+}
+.main-block{
+        border-radius: 10px;
+        background-color: rgb(21, 35, 53);
+        box-shadow: 0px 0px 65px 0px rgba(0, 0, 0, 0.82);
+        position: absolute;
+        left: 63px;
+        top: 109px;
+        width: 686px;
+        height: 391px;
+        z-index: 8;
+      
+}
+.block-logo{
+    position: absolute;
+    left: 22px;
+    top: 22px;
+    
+}
+.block-main-img{
+ 
+        position: absolute;
+        left: 35px;
+        top: 125px;
+        width: 329px;
+        height: 159px;
+        z-index: 47;
+    
+      
+}
+.block-content{
+    position: absolute;
+    width: 185px;
+    height: 245px;
+    top: 77px;
+    left: 445px;
+}
+.ba-product-title{
+    
+        font-size: 24px;
+        font-family: "Abel";
+        color: rgb(231, 231, 231);
+        line-height: 1.083;
+        position: absolute;
+        z-index: 44;
+      
+      
+}
+.ba-product-subtitle{
+        font-size: 14px;
+        font-family: "Abel";
+        color: rgba(231, 231, 231, 0.541);
+        line-height: 1.857;
+        position: absolute;
+        top: 60px;
+        width: 172px;
+        height: 14px;
+        z-index: 43;
+      }
+.ba-stars{
+    position: absolute;
+    top: 125px;
+}
+.ba-size{
+    
+        position: absolute;
+        top: 150px;
+        border: 1px solid  rgb(94, 101, 109);
+        color: rgba(231, 231, 231, 0.781);
+        font-family: "Abel";
+        padding: 10px;
+        width: 60px;
+        
+} 
+.ba-qty{
+    
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    border: 1px solid  rgb(94, 101, 109);
+    color: rgba(231, 231, 231, 0.801);
+    font-family: "Abel";
+    padding: 10px;
+    width: 60px;
+    
+} 
+.ba-add{
+    position: absolute;
+    top: 220px;
+    border: 1px solid  rgb(94, 101, 109);
+    color: rgb(231, 231, 231);
+    font-family: "Abel";
+    padding: 10px;
+    text-align: center;
+    width: 185px;
+    background-color: rgba(94, 101, 109, 0.726)
+
+}  
+.pl{
+    position: absolute;
+    top: 350px;
+    left: 175px;
+}
+
+
